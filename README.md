@@ -1,2 +1,5 @@
 # LetsUpgrade-python
-It is a python program to find odd and even .
+These are my basic assignments of python.
+
+
+
